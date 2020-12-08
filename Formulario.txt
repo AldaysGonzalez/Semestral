@@ -1,0 +1,28 @@
+<html>
+    <title>Formulario</title>
+<head>
+<center><h1>Formulario de Compras en el Minisuper Qiu</h1>
+<h1>Facilite sus datos:</h1></center>
+</head>
+<body>
+<form>
+     <body background='fondo.jpg'></body>
+    <div class="seccion">
+      <h2>Datos del Comprador</h2>
+      <p>Su nombre<input type="text" name="nombre" /></p>
+      <p>Su telefono<input type="text" name="###" /></p>
+        <h2>Servicio</h2>
+      <p><input type="radio" name="sexo" value="hombre" />Envio por Appetito24</p>
+      <p><input type="radio" name="sexo" value="mujer" />Tienda fisica</p>  
+      <h2>Ingresar fecha de entrega.</h2>
+        <p><textarea  name="descripcion">Fecha</textarea>
+<h2>Su dirección de envio.</h2>
+        <p><textarea  name="descripcion">Vivienda</textarea>
+      
+    </div>
+    </form>
+    <form action="Factura.html">
+        <input type="submit" value="Factura" />
+       </form>
+</body>
+</html>

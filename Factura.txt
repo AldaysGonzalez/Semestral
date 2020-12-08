@@ -1,0 +1,39 @@
+<html>
+    <title>Factura</title>
+<body background='fondo.jpg'></body>
+    <center><h2>Factura de su Compra en el Minisuper Qiu</h2></center>
+<h1>Transacción:</h1>
+   
+<table class="egt">
+ <TABLE WIDTH="150%">
+  <tr>
+    <th></th>
+    <th>Fecha</th>
+    <th>31/12/2019</th>
+      </tr>
+
+  <tr>
+    <td>Datos</td>
+    <td>Cantidad</td>
+    <td></td>
+      </tr>
+
+  <tr>
+    <td>Viveres</td>
+    <td></td>
+    <td></td>
+      </tr>
+
+  <tr>
+    <td>Pre-Total</td>
+    <td></td>
+    <td>Itbms</td>
+      </tr>
+     <tr>
+     <td></td>
+         <td></td>
+         <td>Total a Pagar:</td>
+     </tr>
+
+</table>   
+</html>
